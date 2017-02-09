@@ -81,7 +81,7 @@ else{
   }
 }
 ?>
-<!docktype html>
+<!doctype html>
 <html>
 <head>
   <title> student </title>
